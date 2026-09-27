@@ -2,6 +2,10 @@
 
 Veinte ejercicios de closures, lambdas y funciones de orden superior, organizados en cuatro niveles.
 
+Repositorio público: https://github.com/DaywinJC/taller-programacion-funcional
+
+[Informe en PDF](Taller_Closures_Daywin_Salvatierra.pdf): carátula institucional, enlace al repositorio y veinte imágenes del código con sus resultados.
+
 ## Ejecución
 
 Requiere Python 3.10 o posterior. No necesita paquetes externos.
@@ -13,6 +17,8 @@ python nivel2/09_crear_limitador_avanzado.py
 ```
 
 `nivel1` a `nivel4` contienen cinco ejercicios cada uno. Cada archivo incluye ejemplos con `print()`. `evidencias/ejecuciones.txt` contiene las salidas reales de la revisión. `verificar.py` comprueba resultados y casos límite mediante aserciones; debe ejecutarse sin la opción `-O`.
+
+Las imágenes de `evidencias/capturas` se generaron a partir del código y de la salida capturada al ejecutar cada archivo. No representan una ventana de un IDE.
 
 ## Conceptos y decisiones
 
