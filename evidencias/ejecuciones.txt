@@ -1,0 +1,111 @@
+=== nivel1/01_crear_formateador.py ===
+[LOG] SISTEMA INICIADO
+>> nohtyp
+Usuario: Ana Lopez
+
+=== nivel1/02_crear_operador.py ===
+20
+8
+15
+[2, 4, 6, 8]
+
+=== nivel1/03_crear_descuento_dinamico.py ===
+127.5
+50
+76.0
+81
+
+=== nivel1/04_crear_generador_sufijos.py ===
+reporte-001
+reporte-002
+reporte-003
+foto(1)
+foto(2)
+
+=== nivel1/05_crear_conversor.py ===
+93.84
+189.0
+1130.0
+
+=== nivel2/06_crear_contador_paso.py ===
+1
+3
+7
+3
+6
+
+=== nivel2/07_crear_acumulador_validado.py ===
+10
+10
+30
+0
+4
+12
+
+=== nivel2/08_crear_promediador_filtrado.py ===
+20.0
+25.0
+25.0
+30.0
+
+=== nivel2/09_crear_limitador_avanzado.py ===
+True
+True
+ALERTA: limite excedido en intento 3
+False
+True
+
+=== nivel2/10_crear_conmutador.py ===
+rojo
+amarillo
+verde
+rojo
+
+=== nivel3/11_procesar_coleccion.py ===
+[4, 16, 36, 64, 100]
+[60, 70, 80, 90, 100]
+
+=== nivel3/12_agrupar_por.py ===
+{'A': [{'nombre': 'Ana', 'curso': 'A'}, {'nombre': 'Marta', 'curso': 'A'}], 'B': [{'nombre': 'Luis', 'curso': 'B'}], 'C': [{'nombre': 'Juan', 'curso': 'C'}]}
+{'impar': [1, 3, 5, 7], 'par': [2, 4, 6, 8]}
+
+=== nivel3/13_ejecutar_y_rastrear.py ===
+[2, 5, 1, 3, 1]
+[2, 5, 1, 3, 1]
+[8, 8, 8]
+
+=== nivel3/14_componer_dos.py ===
+12
+11
+NOHTYP
+
+=== nivel3/15_auditar_ejecucion.py ===
+[AUDITORIA] tarea_pesada -> resultado=333328333350000 tiempo=0.014985s
+333328333350000
+
+=== nivel4/16_crear_validador_multiple.py ===
+True
+False
+
+=== nivel4/17_memoizar_avanzado.py ===
+  (calculando cuadrado de 2)
+4
+  (calculando cuadrado de 3)
+9
+4
+  (calculando cuadrado de 4)
+16
+{(2,): 4, (4,): 16}
+
+=== nivel4/18_crear_pipeline.py ===
+hola_mundo_python
+25
+
+=== nivel4/19_crear_sistema_eventos.py ===
+Bienvenido, Ana
+[LOG] Ana inicio sesion
+Hasta luego, Ana
+
+=== nivel4/20_crear_consultor.py ===
+[{'nombre': 'Laptop', 'precio': 900}, {'nombre': 'Monitor', 'precio': 250}]
+[{'nombre': 'Mouse', 'precio': 15}, {'nombre': 'Teclado', 'precio': 40}]
